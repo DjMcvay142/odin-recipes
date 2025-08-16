@@ -19,12 +19,12 @@ header {
 .navbar {
   display: flex;
   flex-direction: row;
-  justify-content: space-between; /* Changed from space-evenly */
+  justify-content: space-between;
   align-items: center;
   width: 100%;
-  padding: 1.5rem 3rem; /* Increased padding */
-  max-width: 1200px; /* Add max-width for large screens */
-  margin: 0 auto; /* Center the navbar */
+  padding: 1.5rem 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .nav-logo {
